@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07c47ca7-aca3-4835-97b2-f82677ca70b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/conifg-dev.properties" afterPath="$PROJECT_DIR$/demo/conifg-dev.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/conifg-test.properties" afterPath="$PROJECT_DIR$/demo/conifg-test.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/cloud-conifg-dev.properties" afterPath="$PROJECT_DIR$/demo/cloud-config-dev.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/cloud-conifg-test.properties" afterPath="$PROJECT_DIR$/demo/cloud-config-test.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,21 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="conifg-dev.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/conifg-dev.properties">
+      <file leaf-file-name="cloud-config-dev.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/cloud-config-dev.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="0">
+              <caret line="2" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conifg-test.properties" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo/conifg-test.properties">
+      <file leaf-file-name="cloud-config-test.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/cloud-config-test.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="34">
+              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -73,8 +69,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1670" />
-    <option name="y" value="-15" />
+    <option name="x" value="1618" />
+    <option name="y" value="8" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
   </component>
@@ -233,7 +229,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513317391649</updated>
-      <workItem from="1513317395217" duration="1115000" />
+      <workItem from="1513317395217" duration="2314000" />
     </task>
     <task id="LOCAL-00001" summary="【配置项目初始化】">
       <created>1513317868562</created>
@@ -242,14 +238,28 @@
       <option name="project" value="LOCAL" />
       <updated>1513317868562</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="【配置项目初始化】">
+      <created>1513319048131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513319048131</updated>
+    </task>
+    <task id="LOCAL-00003" summary="【配置项目初始化】">
+      <created>1513319523121</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513319523121</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1115000" />
+    <option name="totallyTimeSpent" value="2314000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1670" y="-15" width="1280" height="773" extended-state="0" />
+    <frame x="1618" y="8" width="1280" height="773" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -297,18 +307,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/conifg-dev.properties">
+    <entry file="file://$PROJECT_DIR$/demo/cloud-config-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="0">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/conifg-test.properties">
+    <entry file="file://$PROJECT_DIR$/demo/cloud-config-test.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding />
         </state>
       </provider>
